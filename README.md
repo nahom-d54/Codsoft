@@ -1,8 +1,10 @@
 # Codsoft
 Codsoft internship project
 <h2>This is the internship project output</h2>
-- python3 contactBook.py
-- python3 pwgen.py
-- python3 rock_paper_sissor.py
-- python3 calculator.py
-- python3 todoList.py
+<ul>
+  <li>python3 contactBook.py</li>
+  <li>python3 pwgen.py</li>
+  <li>python3 rock_paper_sissor.py</li>
+  <li>python3 calculator.py</li>
+  <li>python3 todoList.py</li>
+</ul>
